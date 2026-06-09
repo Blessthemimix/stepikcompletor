@@ -15,7 +15,7 @@
     console.log("%c[Stepik AI] СКРИПТ УСПЕШНО ИНИЦИАЛИЗИРОВАН (v4.9.2 Тотальный фикс)!", "color: #10b981; font-size: 14px; font-weight: bold; background: #0f172a; padding: 4px 8px; border-radius: 4px;");
 
     // ─── НАСТРОЙКИ ИИ ────────────────────────────────────────────────────────
-    const AI_API_KEY = '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';
+    const AI_API_KEY = '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';
     const AI_API_URL = 'https://openrouter.ai/api/v1/chat/completions';
     const AI_MODEL   = 'google/gemma-4-31b-it';
     // ──────────────────────────────────────────────────────────────────────────
